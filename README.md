@@ -5,7 +5,14 @@ I'm Nethuni, an undergraduate at UOM in Sri Lanka, and a full-stack developer. I
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethunirajapakse&show_icons=true&theme=dracula)
 
 
-## Skills and Experiences: 
+## Skills and Experiences🎓💼
+
+   ⁌ 🍃 SpringBoot
+   ⁌ ⚛️ React (MERN Stack)
+   ⁌ 🌿 Node.js (MERN Stack)
+   ⁌  📄 HTML
+   ⁌ 🎨 CSS
+
 
 
 
