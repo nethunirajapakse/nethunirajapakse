@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nethuni</h1>
 <h3 align="center">a full-stack developer. I'm passionate about learning and turning my ideas into reality through web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethunirajapakse&label=Profile%20views&color=0e75b6&style=flat" alt="nethunirajapakse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethunirajapakse" alt="nethunirajapakse" /></a> </p>
 
