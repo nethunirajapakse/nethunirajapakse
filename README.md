@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethunirajapakse&show_icons=true&locale=en&layout=compact" alt="nethunirajapakse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethunirajapakse&show_icons=true&locale=en" alt="nethunirajapakse" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethunirajapakse&show_icons=true&theme=dracula)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethunirajapakse&" alt="nethunirajapakse" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nethunirajapakse&theme=dark)
