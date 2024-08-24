@@ -8,7 +8,7 @@
 
 - 📫 reach me via **nethunirajapakse@gmial.com**
 
-- ⚡ I'm enthusiastic about learning and turning my ideas into reality through web development.   
+- ⚡I'm enthusiastic about transforming ideas into digital reality.
 
 
 
