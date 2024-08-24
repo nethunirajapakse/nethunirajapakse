@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently reading for  **BSc. Hons Information Technology Degree - University of Moratuwa**
 
-- 📫 reach me via ([nethunirajapakse@gmail.com]nethunirajapakse@gmial.com)
+- 📫 reach me via **nethunirajapakse@gmial.com**
 
 - ⚡ I'm enthusiastic about learning and turning my ideas into reality through web development.   
 
