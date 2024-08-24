@@ -146,7 +146,7 @@
 
 -->
 
-<h3>📊 GitHub Stats</h3> <p align="left">
+## 📊 GitHub Stats</h3> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nethunirajapakse&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="left">
