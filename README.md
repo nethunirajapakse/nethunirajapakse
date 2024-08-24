@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nethuni</h1> <h3 align="center">A Passionate Full-Stack Developer</h3> <p align="center">I'm enthusiastic about learning and turning my ideas into reality through web development.</p>
+<h1 align="center">Hi 👋, I'm Nethuni</h1> <h3 align="center">A Passionate Full-Stack Developer</h3> 
 <p> <img src="https://komarev.com/ghpvc/?username=nethunirajapakse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
 
-- 🌱 I’m currently reading for  *BSc. Hons Information Technology Degree - University of Moratuwa*
-  
+- 🌱 I’m currently reading for  **BSc. Hons Information Technology Degree - University of Moratuwa**
+
+- 📫 reach me via ([nethunirajapakse@gmail.com]nethunirajapakse@gmial.com)
 
 - ⚡ I'm enthusiastic about learning and turning my ideas into reality through web development.   
+
 
 
 
