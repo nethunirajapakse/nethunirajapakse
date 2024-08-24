@@ -1,4 +1,4 @@
-### Hi 👋, I'm Nethuni</h1>
+# Hi 👋, I'm Nethuni</h1>
 ## full-stack developer
 <!--. I'm passionate about learning and turning my ideas into reality through web development.</h3> -->
 
