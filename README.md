@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently reading for  **BSc. Hons Information Technology Degree - University of Moratuwa**
 
-- 📫 reach me via **nethunirajapakse@gmial.com**
+- 📫 reach me via **nethunirajapakse@gmail.com**
 
 - ⚡I'm enthusiastic about transforming ideas into digital reality.
 
