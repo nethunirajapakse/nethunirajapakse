@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nethuni Rajapakse</h1> 
-<h3 align="center">Full-Stack Developer</h3> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<!--<h3 align="center">Full-Stack Developer</h3> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Garet&weight=700&pause=1000&color=B2A2F7&width=435&lines=Full-Stack+Web+Developer;Resposible+Committed+Team+Player;Creative+and+Analytical+Thinker" alt="Typing SVG" /></a>
+
 <p> <img src="https://komarev.com/ghpvc/?username=nethunirajapakse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
