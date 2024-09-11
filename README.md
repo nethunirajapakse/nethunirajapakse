@@ -1,4 +1,27 @@
-<h1 align="center">Hi 👋 I'm Nethuni Rajapakse</h1> 
+<h1 align="center">
+  Hi 👋 I'm Nethuni Rajapakse
+  <span class="wave">👋</span>
+</h1>
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2s infinite;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
+
 <!--<h3 align="center">Full-Stack Developer</h3> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=B2A2F7&width=435&lines=Full-Stack+Web+Developer;Resposible+Committed+Team+Player;Creative+and+Analytical+Thinker" alt="Typing SVG" /></a>
 
