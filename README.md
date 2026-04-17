@@ -22,8 +22,6 @@
 
 Final-year IT undergraduate at the **University of Moratuwa** — equal parts engineer and tinkerer. I spend my days building full-stack systems and my spare time going down rabbit holes in **LLMs** and **RAG pipelines**. I care about code that's not just functional but thoughtfully crafted, and I'm drawn to problems where AI and software engineering genuinely intersect.
 
-> *"I don't just write code — I build things that think a little."*
-
 ---
 
 ## 🛠️ Tech Stack
