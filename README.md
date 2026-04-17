@@ -80,12 +80,12 @@ Final-year IT undergraduate at the **University of Moratuwa** — equal parts en
   <img src="https://streak-stats.demolab.com/?user=nethunirajapakse&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
 
----
+<!-- --- --> 
 
 <div align="center">
 
-<!--*Open to collaborations, interesting problems, and good coffee chats.* --> 
-**Sri Lanka 🇱🇰**
+<!--*Open to collaborations, interesting problems, and good coffee chats.* 
+**Sri Lanka 🇱🇰**--> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer" />
 
