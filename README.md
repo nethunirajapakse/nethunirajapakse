@@ -84,7 +84,7 @@ Final-year IT undergraduate at the **University of Moratuwa** — equal parts en
 
 <div align="center">
 
-*Open to collaborations, interesting problems, and good coffee chats.*  
+<!--*Open to collaborations, interesting problems, and good coffee chats.* --> 
 **Sri Lanka 🇱🇰**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer" />
