@@ -63,11 +63,11 @@ Final-year IT undergraduate at the **University of Moratuwa** — equal parts en
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**AI / ML**
+<!-- **AI / ML**
 
 ![LLMs](https://img.shields.io/badge/LLMs-7B68EE?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-5A4FCF?style=flat-square&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square&logoColor=white) -->
 
 ---
 
