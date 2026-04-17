@@ -18,13 +18,13 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Final-year IT undergraduate at the **University of Moratuwa** — equal parts engineer and tinkerer. I spend my days building full-stack systems and my spare time going down rabbit holes in **LLMs** and **RAG pipelines**. I care about code that's not just functional but thoughtfully crafted, and I'm drawn to problems where AI and software engineering genuinely intersect.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -71,7 +71,7 @@ Final-year IT undergraduate at the **University of Moratuwa** — equal parts en
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nethunirajapakse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=8" height="160" alt="GitHub Stats" />
@@ -80,13 +80,6 @@ Final-year IT undergraduate at the **University of Moratuwa** — equal parts en
   <img src="https://streak-stats.demolab.com/?user=nethunirajapakse&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
 
-<!-- --- --> 
-
 <div align="center">
-
-<!--*Open to collaborations, interesting problems, and good coffee chats.* 
-**Sri Lanka 🇱🇰**--> 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer" />
-
 </div>
