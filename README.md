@@ -23,6 +23,7 @@
 Final-year IT undergraduate at the **University of Moratuwa** — equal parts engineer and tinkerer. I spend my days building full-stack systems and my spare time going down rabbit holes in **LLMs** and **RAG pipelines**. I care about code that's not just functional but thoughtfully crafted, and I'm drawn to problems where AI and software engineering genuinely intersect.
 
 ---
+
 ## Tech Stack
 
 <table>
@@ -51,7 +52,7 @@ Final-year IT undergraduate at the **University of Moratuwa** — equal parts en
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-    </td>
+</td>
     <td valign="top" width="50%">
 
 **Databases**
@@ -75,7 +76,7 @@ Final-year IT undergraduate at the **University of Moratuwa** — equal parts en
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-5A4FCF?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square&logo=pytorch&logoColor=white)
 
-    </td>
+</td>
   </tr>
 </table>
 
