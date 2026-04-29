@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · AI & ML Enthusiast
 
-*Building intelligent systems, one commit at a time.*
+
 
 <br/>
 
