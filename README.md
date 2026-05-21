@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header&text=Nethuni%20Rajapakse&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Nethuni%20Rajapakse&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" alt="Nethuni Rajapakse" />
+
+# Nethuni Rajapakse
 
 ### Full-Stack Developer · AI & ML Enthusiast
-
-
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-Final year IT undergraduate at the **University of Moratuwa**,  equal parts engineer and tinkerer. I spend my days building full-stack systems and my spare time going down rabbit holes in LLMs and RAG pipelines.
+Final year IT undergraduate at the **University of Moratuwa**, equal parts engineer and tinkerer. I spend my days building full-stack systems and my spare time going down rabbit holes in LLMs and RAG pipelines.
 
 ---
 
@@ -85,5 +85,7 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
 ## GitHub Stats
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&reversal=true" alt="" />
+
 </div>
