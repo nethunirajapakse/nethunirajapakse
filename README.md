@@ -89,3 +89,7 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethunirajapakse&theme=tokyonight&hide_border=true&background=0D1117&ring=7B68EE&fire=7B68EE&currStreakLabel=7B68EE" height="180" />
 
 </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer" />
+
