@@ -16,13 +16,13 @@
 
 </div>
 
----
+
 
 ## About Me
 
 Final year IT undergraduate at the **University of Moratuwa**,  equal parts engineer and tinkerer. I spend my days building full-stack systems and my spare time going down rabbit holes in LLMs and RAG pipelines.
 
----
+
 
 ## Tech Stack
 
@@ -80,7 +80,7 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
   </tr>
 </table>
 
----
+
 
 ## GitHub Stats
 
