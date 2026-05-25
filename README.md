@@ -85,5 +85,17 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
 ## GitHub Stats
 
 <div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=nethunirajapakse&show_icons=true&theme=react&hide_border=true&title_color=7B68EE&icon_color=7B68EE" alt="Nethuni's GitHub Stats" height="180" />
+
+<!-- Most Used Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethunirajapakse&layout=compact&theme=react&hide_border=true&title_color=7B68EE" alt="Top Languages" height="180" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer" />
+</div>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer" />
 </div>
