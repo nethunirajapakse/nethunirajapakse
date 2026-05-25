@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header&text=Nethuni%20Rajapakse&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" /> -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Nethuni%20Rajapakse&fontSize=38&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Developer%20·%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=78&descFontColor=c9b8ff&animation=fadeIn" />
 
 ### Full-Stack Developer · AI & ML Enthusiast
