@@ -7,13 +7,25 @@
 
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nethuni--rajapakse-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethuni-rajapakse)
-[![Medium](https://img.shields.io/badge/Medium-@nethunirajapakse-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nethunirajapakse)
-[![HackerRank](https://img.shields.io/badge/HackerRank-nethunirajapakse-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nethunirajapakse)
-[![Email](https://img.shields.io/badge/nethunirajapakse@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nethunirajapakse@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=nethunirajapakse&color=7B68EE&style=flat-square&label=Profile+Views)](https://github.com/nethunirajapakse)
-
+<div>
+  <a href="https://nethuni-rajapakse.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-nethuni--rajapakse-FF4B4B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/nethuni-rajapakse" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nethuni--rajapakse-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@nethunirajapakse" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-@nethunirajapakse-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://www.hackerrank.com/nethunirajapakse" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-nethunirajapakse-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="mailto:nethunirajapakse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/nethunirajapakse@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/nethunirajapakse" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=nethunirajapakse&color=7B68EE&style=flat-square&label=Profile+Views" alt="Profile Views">
+  </a>
 </div>
 
 
