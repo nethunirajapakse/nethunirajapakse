@@ -94,7 +94,7 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
 
 
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <div align="center">
 
@@ -103,5 +103,5 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer" /> -->
 
