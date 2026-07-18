@@ -93,14 +93,15 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
 </table>
 
 
-
- ## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nethunirajapakse&theme=tokyonight&hide_border=true&background=0D1117&ring=7B68EE&fire=7B68EE&currStreakLabel=7B68EE" height="180" />
-
+  <img src="https://github-readme-stats.vercel.com/api?username=nethunirajapakse&show_icons=true&theme=tokyonight&hide_border=true&title_color=7B68EE&icon_color=7B68EE" height="180" alt="Nethuni's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethunirajapakse&theme=tokyonight&hide_border=true" height="180" alt="Nethuni's GitHub Streak" />
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer" /> 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer" /> 
+</div>
