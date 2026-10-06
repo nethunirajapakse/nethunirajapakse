@@ -93,7 +93,7 @@ Final year IT undergraduate at the **University of Moratuwa**,  equal parts engi
 </table>
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.com/api?username=nethunirajapakse&show_icons=true&theme=tokyonight&hide_border=true&title_color=7B68EE&icon_color=7B68EE" height="180" alt="Nethuni's GitHub Stats" /> -->
