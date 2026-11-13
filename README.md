@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B68EE,100:4B3FBF&height=220&section=header&text=Nethuni%20Rajapakse&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=64&animation=fadeIn" alt="Nethuni Rajapakse" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&section=header&text=Nethuni%20Rajapakse&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="Nethuni Rajapakse" />
 
 <a href="https://github.com/nethunirajapakse">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=7B68EE&center=true&vCenter=true&width=640&lines=Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+TypeScript;Building+clean%2C+reliable+backend+systems;Event-driven+microservices+%26+cloud+delivery;Exploring+LLMs%2C+RAG+%26+on-device+AI" alt="Typing animation" />
@@ -57,5 +57,5 @@ I write about the backend patterns I use, including **Dependency Injection** and
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:4B3FBF&height=110&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=110&section=footer" alt="" />
 </div>
